@@ -1,0 +1,35 @@
+/*****************************************Tag selector ****************/
+
+h1 {
+  color: red;
+  font-size: 200px;
+  border-bottom: 4mm ridge ;
+
+}
+p {
+  background-color: red;
+  background-size: contain;
+  background-position: left;
+  box-shadow: 10px 5px 5px green;
+}
+img {
+  background-color: red;
+  background-size: 20% ;
+  box-shadow: 10px 5px 5px green;
+
+}
+/*****************************************Class selector ****************/
+.bacon{
+  background-color: yellow;
+}
+.orange{
+  background-color: purple;
+}
+.circular{
+  border-radius: 100%;
+}
+/*****************************************Id  selector ****************/
+#hed{
+  color: blue;
+  background-color: black;
+}
